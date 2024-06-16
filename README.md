@@ -1,7 +1,8 @@
 <div align="center">
+  
 **Iqra Batool**
 
-**Passionate Programer**
+**Passionate Programmer**
 
 Currently pursuing my degree in **Computer Engineering**.
 </div>
