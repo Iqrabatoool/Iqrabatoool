@@ -1,9 +1,10 @@
-# @Iqrabatoool
+<div align="center">
+# Iqra Batool
 
 Passionate Programer**
 
 Currently pursuing my degree in **Computer Engineering**.
-
+</div>
 ---
 
 ### Connect with me:
