@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @Iqrabatoool
+# @Iqrabatoool
 
-👀 **I’m interested in Programming, especially in C++ and Python.**
+Passionate Programer**
 
-🌱 Currently pursuing my degree in **Computer Engineering**, I'm dedicated to merging theoretical knowledge with hands-on experience to create innovative solutions.
+Currently pursuing my degree in **Computer Engineering**.
 
 ---
 
