@@ -2,8 +2,6 @@
   
 **Iqra Batool**
 
-**Passionate Programmer**
-
 Currently pursuing my degree in **Computer Engineering**.
 </div>
 ---
